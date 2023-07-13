@@ -2,3 +2,5 @@
 sh 'ls -la'
 sh 'touch test.txt'
 sh 'ls'
+sh 'rm -r test.txt'
+sh 'touch testfile'
