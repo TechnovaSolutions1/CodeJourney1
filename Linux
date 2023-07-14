@@ -1,4 +1,0 @@
- sh 'mdkir testdirectory'
-sh 'ls -la'
-sh 'touch test.txt'
-sh 'ls'
